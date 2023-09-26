@@ -1,1 +1,1 @@
-# OOP_Patterns_Unlocked_materials
+# Materials for 'OOP Patterns Unlocked' book
